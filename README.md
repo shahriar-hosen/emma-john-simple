@@ -4,7 +4,7 @@ A simple Amazon-inspired eCommerce web application built with React. This projec
 
 ## 🔗 Repository
 
-[GitHub Repository](https://github.com/shahriar-hosen/emma-john-simple?utm_source=chatgpt.com)
+[GitHub Repository](https://github.com/shahriar-hosen/emma-john-simple)
 
 ## ✨ Features
 
