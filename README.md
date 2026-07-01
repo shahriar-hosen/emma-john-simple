@@ -1,67 +1,64 @@
-A responsive eCommerce frontend built with React. This project recreates the core shopping experience including product browsing, cart functionality, pricing calculations, and a modern UI.
+# Shopping Website built with React
 
-## 🚀 Features
+A simple Amazon-inspired eCommerce web application built with React. This project recreates core shopping features such as browsing products, viewing pricing information, adding items to the cart, and calculating order summaries.
 
-* Responsive homepage layout
-* Product listing and display
-* Add to Cart functionality
-* Dynamic cart summary
-* Shipping and tax calculation
-* Component-based architecture
-* React state and props management
+## 🔗 Repository
 
-## 🛠️ Built With
+[GitHub Repository](https://github.com/shahriar-hosen/emma-john-simple?utm_source=chatgpt.com)
+
+## ✨ Features
+
+* Product listing interface
+* Add products to cart
+* Dynamic cart updates
+* Order summary section
+* Shipping cost calculation
+* Tax calculation
+* Responsive layout
+* Component-based React structure
+
+## 🛠️ Technologies Used
 
 * React
-* JavaScript (ES6+)
+* JavaScript (ES6)
 * HTML5
 * CSS3
 
 ## 📂 Project Structure
 
-```
+```text
 src/
 │
 ├── components/
+│   ├── Header/
+│   ├── Product/
+│   ├── Cart/
+│
 ├── images/
 ├── App.js
 ├── index.js
 └── styles/
 ```
 
-## 📦 Installation
+## 🚀 Getting Started
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-Move into the project directory:
+### Clone the repository
 
 ```bash
-cd your-repository-name
+git clone https://github.com/shahriar-hosen/emma-john-simple.git
 ```
 
-Install dependencies:
+### Navigate to the project
+
+```bash
+cd emma-john-simple
+```
+
+### Install dependencies
 
 ```bash
 npm install
 ```
-
-Start the development server:
-
-```bash
-npm start
-```
-
-Open:
-
-```
-http://localhost:3000
-```
-
-## 🔧 Available Scripts
 
 ### Run locally
 
@@ -69,13 +66,27 @@ http://localhost:3000
 npm start
 ```
 
-### Build for production
+Open your browser and visit:
+
+```text
+http://localhost:3000
+```
+
+## 📦 Available Scripts
+
+Start development server:
+
+```bash
+npm start
+```
+
+Create production build:
 
 ```bash
 npm run build
 ```
 
-### Run tests
+Run tests:
 
 ```bash
 npm test
@@ -83,20 +94,28 @@ npm test
 
 ## 📸 Screenshots
 
-Add screenshots of the homepage, product section, and cart UI here.
+Add screenshots here after deployment.
 
-## 🎯 Learning Goals
+Example:
 
-This project was created to practice:
+```text
+screenshots/homepage.png
+screenshots/cart.png
+```
 
-* React components
-* Props and state
+## 🎯 What I Learned
+
+* React component structure
+* Props and state management
 * Event handling
 * Conditional rendering
-* Basic eCommerce UI development
+* Cart calculation logic
+* Building reusable UI components
 
+## ⚠️ Disclaimer
+
+This project is built for educational and portfolio purposes only and is not affiliated with Amazon.
 
 ## 👨‍💻 Author
 
-Created by **Shahriar Hosen**
-
+Shahriar Hosen
